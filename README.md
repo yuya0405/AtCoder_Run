@@ -3,6 +3,9 @@
 ## 仮想環境の起動
 ```
 cd /Users/${whoami}/Documents/AtCoder
+```
+
+```
 source pyenv/bin/activate
 ```
 
